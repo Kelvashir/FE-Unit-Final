@@ -1,0 +1,23 @@
+.partsOrderButton,
+.customerButton {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+  width: 150px;
+}
+
+.create-account-link {
+  color: #007bff; /* Blue color for the link */
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+.create-account-link:hover {
+  color: #0056b3; /* Darker blue color on hover */
+}
